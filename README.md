@@ -1,3 +1,3 @@
 # Death_is_Useful
 
-Developed with Unreal Engine 4
+The game is a puzzle platformer developed using the visual scripting inside of Unreal Engine.
